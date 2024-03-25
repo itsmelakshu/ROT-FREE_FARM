@@ -1,2 +1,2 @@
 # ROT-FREE_FARM
-This is an app that I recently made, Rot Free Farm is a rotten fruit detection app where farmers can find out whether the fruit is rotten or not… This app can also be used by customers at local supermarkets… 
+This is an app that I recently made, Rot Free Farm is a rotten fruit detection app where farmers can find out whether the fruit is rotten or fresh… This app can also be used by customers at local supermarkets… It is very helpful for communities, now the farming has a huge impact in our world due to the growing population and farmers face a lot of challenges. ROT FREE FARM will not only help them be more productive but will also make their work more efficient!
